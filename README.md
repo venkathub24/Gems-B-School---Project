@@ -1,6 +1,7 @@
 # Gems-B-School---Project
 # Project Name:-Case Study on Crop Yield and Influencing Factors in Indian Agriculture
 
+# Introduction:
 It is a comprehensive report prepared by MBA students at Gems B-School as part of our business analytics project, submitted to KPMG. The focus of the study is to analyze the various factors influencing crop yields in Indian agriculture, with an emphasis on data analytics and predictive modeling to understand patterns in agricultural productivity.
 
 # Key sections of the report include:
@@ -18,4 +19,5 @@ Suggestions include optimizing fertilizer use, adopting integrated pest manageme
 # Visualization and Interpretation:
 Tableau and other visualization tools are used to present insights through graphs and charts.
 
+# Conclusion:
 Overall, the report aims to provide actionable insights for improving agricultural productivity through data-driven approaches.
