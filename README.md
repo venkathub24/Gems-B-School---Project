@@ -6,18 +6,18 @@ It is a comprehensive report prepared by MBA students at Gems B-School as part o
 
 # Key sections of the report include:
 
-# Overview of Indian Agriculture:
+## Overview of Indian Agriculture:
 Highlights agriculture's role in India's economy, rural development, and its global standing.
-# Factors Affecting Crop Yields:
+## Factors Affecting Crop Yields:
 Discusses critical elements such as rainfall patterns, soil fertility, fertilizer and pesticide usage, seasonal variations, and technological innovations.
-# Data Collection and Analysis:
+## Data Collection and Analysis:
 The report utilizes a large dataset covering agricultural data from 1997 to 2020, which includes crop types, weather conditions, and resource inputs like fertilizers.
-# Predictive Modeling:
+## Predictive Modeling:
 Various statistical and machine learning models (e.g., Linear Regression, Random Forest) are used to predict crop yields based on factors such as rainfall, fertilizer usage, and cultivation area.
-# Recommendations:
+## Recommendations:
 Suggestions include optimizing fertilizer use, adopting integrated pest management, improving irrigation systems, and developing crop insurance policies.
-# Visualization and Interpretation:
+## Visualization and Interpretation:
 Tableau and other visualization tools are used to present insights through graphs and charts.
 
-# Conclusion:
+## Conclusion:
 Overall, the report aims to provide actionable insights for improving agricultural productivity through data-driven approaches.
